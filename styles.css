@@ -1,0 +1,146 @@
+
+.active{
+	background-color:#13D500 ;
+	font-size:30px;
+	color: #ffffff;	
+	font-weight:bold;
+	font-family:Trebuchet MS;
+}
+
+.nav{
+	font-weight:bold;
+	font-size:23px;	
+	color: #000000; 
+	padding-left:450px;
+	font-family:Trebuchet MS;
+}
+
+.text{
+	width:600;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 50%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:120px;
+	font-family:Trebuchet MS;
+}
+/*services*/
+.ser0{
+	width:600;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 100%;
+   /* -ms-transform: translateY(-50%); */
+    /* transform: translateY(-50%); */
+	padding-left:120px;
+	font-family:Trebuchet MS;
+}
+
+.ser1{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 125%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:120px;
+	font-family:Trebuchet MS;
+}
+.ser2{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 125%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:520px;
+	font-family:Trebuchet MS;
+}
+.ser3{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 125%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:920px;
+	font-family:Trebuchet MS;
+}
+/*services*/
+/*happy cusomers*/
+.cust0{
+	width:600;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 160%;
+   /* -ms-transform: translateY(-50%); */
+    /* transform: translateY(-50%); */
+	padding-left:120px;
+	font-family:Trebuchet MS;
+}
+
+.cust1{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 185%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:120px;
+	font-family:Trebuchet MS;
+}
+.cust2{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 185%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:520px;
+	font-family:Trebuchet MS;
+}
+.cust3{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 185%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:920px;
+	font-family:Trebuchet MS;
+}
+/*happy cusomers*/
+/*footer*/
+.contact{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 240%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:120px;
+	font-family:Trebuchet MS;
+}
+.social{
+	width:300;
+	vertical-align: sub;
+	margin: 0;
+    position: absolute;
+    top: 240%;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	padding-left:520px;
+	font-family:Trebuchet MS;
+}
+/*footer*/
